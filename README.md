@@ -1,6 +1,6 @@
 # 📊 PhonePe Pulse Dashboard — The Beat of Digital Payments
 
-![PhonePe Banner](https://en.wikipedia.org/wiki/File:PhonePe_Logo.svg)
+![PhonePe Banner](https://en.wikipedia.org/wiki/File:PhonePe_Logo.svg.png)
 
 > **A fully interactive Streamlit dashboard analyzing India's digital transaction landscape using PhonePe Pulse data.**  
 > Built with **Python**, **SQL**, **Plotly**, and **Streamlit** — this project delivers business insights through beautiful, data-driven visualizations.
