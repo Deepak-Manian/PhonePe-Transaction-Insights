@@ -1,4 +1,4 @@
-# 📊 PhonePe Pulse Dashboard — The Beat of Digital Payments
+# 📊 PhonePe Transaction Insights Dashboard — The Beat of Digital Payments
 
 ![PhonePe Banner](https://upload.wikimedia.org/wikipedia/commons/7/71/PhonePe_Logo.svg)
 
@@ -106,15 +106,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app1.py
 ```
-
----
-
-## 📸 Demo Previews
-
-| Transactions Heatmap | Device Usage Pie |
-|----------------------|------------------|
-| ![Map](https://via.placeholder.com/400x250.png?text=Map+Preview) | ![Pie](https://via.placeholder.com/400x250.png?text=Pie+Preview) |
-
 ---
 
 ## 💡 Insights Gained
