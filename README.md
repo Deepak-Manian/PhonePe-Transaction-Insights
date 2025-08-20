@@ -80,8 +80,7 @@ This project delivers **five** detailed business case analyses from the PhonePe 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/phonepe-pulse-dashboard.git
-cd phonepe-pulse-dashboard
+!git clone https://github.com/PhonePe/pulse.git
 ```
 
 ### 2️⃣ Install Dependencies
